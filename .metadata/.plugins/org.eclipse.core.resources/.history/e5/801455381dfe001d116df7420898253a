@@ -1,0 +1,18 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>Default suite</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:31</td>   <td>0</td> <td>&nbsp;</td><td title="&gt;&gt;TestNG.Setup()[pri:0, instance:Selenium.TestNG@10feca44]">&gt;&gt;Setup</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@1132307065</td>   <td></td> </tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:42</td>   <td>10597</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TestNG.venni()[pri:4, instance:Selenium.TestNG@10feca44]">venni</td> 
+  <td>main@1132307065</td>   <td></td> </tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:42</td>   <td>10608</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TestNG.venni2()[pri:5, instance:Selenium.TestNG@10feca44]">venni2</td> 
+  <td>main@1132307065</td>   <td></td> </tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:38</td>   <td>6772</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TestNG.livetech()[pri:1, instance:Selenium.TestNG@10feca44]">livetech</td> 
+  <td>main@1132307065</td>   <td></td> </tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:42</td>   <td>10615</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TestNG.pushpa()[pri:6, instance:Selenium.TestNG@10feca44]">pushpa</td> 
+  <td>main@1132307065</td>   <td></td> </tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:42</td>   <td>10626</td> <td>&nbsp;</td><td title="&lt;&lt;TestNG.TaarDown()[pri:0, instance:Selenium.TestNG@10feca44]">&lt;&lt;TaarDown</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@1132307065</td>   <td></td> </tr>
+<tr bgcolor="9ca58e">  <td>23/05/25 17:53:41</td>   <td>9928</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="TestNG.livetech1()[pri:2, instance:Selenium.TestNG@10feca44]">livetech1</td> 
+  <td>main@1132307065</td>   <td></td> </tr>
+</table>

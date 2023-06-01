@@ -1,0 +1,34 @@
+package stepDefination;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMMethods {
+
+	@Given("^user should launch Chrome Browser\\.$")
+	public void user_should_launch_Chrome_Browser()  {
+	    // Write code here that turns the phrase above into concrete actions
+	    System.setProperty("webdriver.chrome.driver", "C:\\Users\\vishn\\eclipse-workspace\\pushpa1\\Cucumber\\driverFiles\\chromedriver.exe");
+	}
+
+	@When("^user should enter valid OrangeHRM Application Url address\\.$")
+	public void user_should_enter_valid_OrangeHRM_Application_Url_address() {
+	    // Write code here that turns the phrase above into concrete actions
+	    
+	}
+
+	@Then("^user should be navigated to OrangeHRM Application LogIn Page\\.$")
+	public void user_should_be_navigated_to_OrangeHRM_Application_LogIn_Page()  {
+	    // Write code here that turns the phrase above into concrete actions
+	   
+	}
+
+	@Then("^user should close the Browser along with the Application\\.$")
+	public void user_should_close_the_Browser_along_with_the_Application()  {
+	    // Write code here that turns the phrase above into concrete actions
+
+	}
+
+
+}

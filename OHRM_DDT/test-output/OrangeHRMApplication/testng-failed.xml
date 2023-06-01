@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [OrangeHRMApplication]">
+  <test thread-count="5" parallel="tests" name="EList(failed)">
+    <classes>
+      <class name="com.TestCases.EmployeeList">
+        <methods>
+          <include name="oHRMApplicationHomePagelogOutTest"/>
+          <include name="oHRMApplicationHomePageCapturingEmployeeListTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.TestCases.EmployeeList -->
+    </classes>
+  </test> <!-- EList(failed) -->
+</suite> <!-- Failed suite [OrangeHRMApplication] -->

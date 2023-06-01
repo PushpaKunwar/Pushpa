@@ -1,0 +1,26 @@
+package OHRMAddPic;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PhotoUpload {
+
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", "");
+		WebDriver driver = new ChromeDriver();
+		driver.get("");
+		
+		driver.findElement(By.id("menu_pim_viewPimModule")).click();
+		driver.findElement(By.id("menu_pim_addEmployee")).click();
+		driver.findElement(By.id("firstName")).sendKeys("admin");
+		driver.findElement(By.id("lastName")).sendKeys("kunwar");
+		WebElement photoUpload=driver.findElement(By.id("photofile"));
+		
+		JavascriptExecutor js= (JavascriptExecutor)driver;
+	
+
+}
+}

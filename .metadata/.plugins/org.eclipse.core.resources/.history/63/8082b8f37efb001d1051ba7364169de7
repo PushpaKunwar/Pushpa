@@ -1,0 +1,37 @@
+package OHRMAddPic;
+
+import java.io.IOException;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PhotoUpload {
+
+	public static void main(String[] args) throws IOException, InterruptedException {
+		System.setProperty("webdriver.chrome.driver", "./driverFiles/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login");
+		
+		driver.findElement(By.id("txtUsername")).sendKeys("admin");
+		driver.findElement(By.id("txtPassword")).sendKeys("Pushp@87772");
+		
+		driver.findElement(By.id("menu_pim_viewPimModule")).click();
+		driver.findElement(By.id("menu_pim_addEmployee")).click();
+		driver.findElement(By.id("firstName")).sendKeys("admin");
+		driver.findElement(By.id("lastName")).sendKeys("kunwar");
+		
+		WebElement photoUpload=driver.findElement(By.id("photofile"));
+		
+		JavascriptExecutor js= (JavascriptExecutor)driver;
+		js.executeScript("arguments[0].click;", photoUpload);
+		
+		Runtime.getRuntime().exec(System.getProperty("user.dir") +"");
+		Thread.sleep(5000);
+		
+	driver.findElement(By.id("btnSave")).click();
+
+}
+}

@@ -1,0 +1,43 @@
+package stepDefination;
+
+import java.sql.Driver;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMMethods {
+	WebDriver driver;
+	@Given("^user should launch Chrome Browser\\.$")
+	public void user_should_launch_Chrome_Browser()  throws Throwable{
+	    // Write code here that turns the phrase above into concrete actions
+	    System.setProperty("webdriver.chrome.driver", "C:\\Users\\vishn\\eclipse-workspace\\pushpa1\\Cucumber\\driverFiles\\chromedriver.exe");
+	     driver = new ChromeDriver();
+	}
+
+	@When("^user should enter valid OrangeHRM Application Url address\\.$")
+	public void user_should_enter_valid_OrangeHRM_Application_Url_address() throws Throwable{
+	    // Write code here that turns the phrase above into concrete actions
+		driver.get("http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login");
+	}
+
+	@Then("^user should be navigated to OrangeHRM Application LogIn Page\\.$")
+	public void user_should_be_navigated_to_OrangeHRM_Application_LogIn_Page()  throws Throwable{
+	    // Write code here that turns the phrase above into concrete actions
+	   driver.findElement(By.id("txtUsername")).sendKeys("admin");
+	   driver.findElement(By.id("txtPassword")).sendKeys("Pushp@87772");
+	   driver.findElement(By.id("btnLogin")).click();
+	}
+
+	@Then("^user should close the Browser along with the Application\\.$")
+	public void user_should_close_the_Browser_along_with_the_Application()  throws Throwable{
+	    // Write code here that turns the phrase above into concrete actions
+driver.close();
+	}
+
+
+}

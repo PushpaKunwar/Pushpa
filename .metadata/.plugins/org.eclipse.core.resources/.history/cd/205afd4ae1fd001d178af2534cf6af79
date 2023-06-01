@@ -1,0 +1,14 @@
+<suite name="OrangeHRMApplication" >
+  <test name="Login" >
+    <classes>
+       <class name="com.TestCases.LoginTest" />
+    </classes>
+  </test>
+  
+  <test name="EList" >
+    <classes>
+       <class name="com.TestCases.EmployeeList" />
+    </classes>
+  </test>
+  
+</suite>

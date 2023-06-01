@@ -1,0 +1,3 @@
+WinWaitActive("Open")
+Send("C:\Users\vishn\Downloads\PushpaPic.png")
+Send("{ENTER}")

@@ -1,0 +1,328 @@
+2023-05-30 12:01:58,654 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-30 12:01:58,662 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-30 12:01:58,668 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-30 12:01:58,672 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-30 12:02:00,634 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:02:00,658 - Log -INFO - 
+2023-05-30 12:12:47,356 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-30 12:12:47,369 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-30 12:12:47,375 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-30 12:12:47,382 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-30 12:12:48,785 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:12:48,791 - Log -INFO - 
+2023-05-30 12:12:49,622 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:12:49,630 - Log -INFO - 
+2023-05-30 12:12:50,547 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:12:50,557 - Log -INFO - 
+2023-05-30 12:12:51,502 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:12:51,504 - Log -INFO - 
+2023-05-30 12:12:52,359 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:12:52,361 - Log -INFO - 
+2023-05-30 12:12:52,435 - Log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-30 12:12:52,441 - Log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-30 12:12:52,445 - Log -INFO - OrangeHRM Application LogIn page Logo existing
+2023-05-30 12:50:52,200 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:52,207 - Log -INFO - 
+2023-05-30 12:50:53,113 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:53,118 - Log -INFO - 
+2023-05-30 12:50:53,934 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:53,939 - Log -INFO - 
+2023-05-30 12:50:54,680 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:54,688 - Log -INFO - 
+2023-05-30 12:50:55,502 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:55,509 - Log -INFO - 
+2023-05-30 12:50:55,515 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:50:56,444 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:56,453 - Log -INFO - 
+2023-05-30 12:50:57,272 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:57,279 - Log -INFO - 
+2023-05-30 12:50:58,133 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:58,141 - Log -INFO - 
+2023-05-30 12:50:58,957 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:58,957 - Log -INFO - 
+2023-05-30 12:50:59,772 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:50:59,777 - Log -INFO - 
+2023-05-30 12:50:59,783 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:51:00,724 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:00,727 - Log -INFO - 
+2023-05-30 12:51:01,586 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:01,592 - Log -INFO - 
+2023-05-30 12:51:02,601 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:02,603 - Log -INFO - 
+2023-05-30 12:51:03,465 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:03,469 - Log -INFO - 
+2023-05-30 12:51:04,424 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:04,433 - Log -INFO - 
+2023-05-30 12:51:04,441 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:51:05,381 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:05,386 - Log -INFO - 
+2023-05-30 12:51:06,253 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:06,253 - Log -INFO - 
+2023-05-30 12:51:07,166 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:07,175 - Log -INFO - 
+2023-05-30 12:51:08,106 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:08,114 - Log -INFO - 
+2023-05-30 12:51:08,974 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:51:08,978 - Log -INFO - 
+2023-05-30 12:51:08,985 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:52:56,836 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:52:56,845 - Log -INFO - 
+2023-05-30 12:52:57,658 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:52:57,663 - Log -INFO - 
+2023-05-30 12:52:58,533 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:52:58,539 - Log -INFO - 
+2023-05-30 12:52:59,401 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:52:59,405 - Log -INFO - 
+2023-05-30 12:53:00,276 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:00,280 - Log -INFO - 
+2023-05-30 12:53:00,281 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:53:01,212 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:01,214 - Log -INFO - 
+2023-05-30 12:53:02,149 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:02,153 - Log -INFO - 
+2023-05-30 12:53:02,987 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:02,996 - Log -INFO - 
+2023-05-30 12:53:03,814 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:03,821 - Log -INFO - 
+2023-05-30 12:53:04,650 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:04,655 - Log -INFO - 
+2023-05-30 12:53:04,660 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:53:05,667 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:05,682 - Log -INFO - 
+2023-05-30 12:53:06,556 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:06,561 - Log -INFO - 
+2023-05-30 12:53:07,416 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:07,420 - Log -INFO - 
+2023-05-30 12:53:08,226 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:08,231 - Log -INFO - 
+2023-05-30 12:53:09,081 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:09,083 - Log -INFO - 
+2023-05-30 12:53:09,083 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 12:53:10,047 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:10,053 - Log -INFO - 
+2023-05-30 12:53:10,997 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:10,999 - Log -INFO - 
+2023-05-30 12:53:11,808 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:11,812 - Log -INFO - 
+2023-05-30 12:53:12,690 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:12,695 - Log -INFO - 
+2023-05-30 12:53:13,589 - Log -INFO - Validating LogIn Functionality
+2023-05-30 12:53:13,596 - Log -INFO - 
+2023-05-30 12:53:13,597 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:03:38,567 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:38,576 - Log -INFO - 
+2023-05-30 13:03:39,373 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:39,377 - Log -INFO - 
+2023-05-30 13:03:40,176 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:40,180 - Log -INFO - 
+2023-05-30 13:03:40,993 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:41,003 - Log -INFO - 
+2023-05-30 13:03:41,882 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:41,885 - Log -INFO - 
+2023-05-30 13:03:41,891 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:03:42,799 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:42,806 - Log -INFO - 
+2023-05-30 13:03:43,911 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:43,923 - Log -INFO - 
+2023-05-30 13:03:44,780 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:44,791 - Log -INFO - 
+2023-05-30 13:03:45,729 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:45,741 - Log -INFO - 
+2023-05-30 13:03:46,553 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:46,558 - Log -INFO - 
+2023-05-30 13:03:46,562 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:03:47,559 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:47,572 - Log -INFO - 
+2023-05-30 13:03:48,596 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:48,597 - Log -INFO - 
+2023-05-30 13:03:49,450 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:49,457 - Log -INFO - 
+2023-05-30 13:03:50,316 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:50,325 - Log -INFO - 
+2023-05-30 13:03:51,178 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:51,190 - Log -INFO - 
+2023-05-30 13:03:51,193 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:03:52,275 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:52,278 - Log -INFO - 
+2023-05-30 13:03:53,163 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:53,175 - Log -INFO - 
+2023-05-30 13:03:54,121 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:54,125 - Log -INFO - 
+2023-05-30 13:03:55,007 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:55,013 - Log -INFO - 
+2023-05-30 13:03:55,933 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:03:55,941 - Log -INFO - 
+2023-05-30 13:03:55,941 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:14:59,783 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:14:59,795 - Log -INFO - 
+2023-05-30 13:15:00,640 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:15:00,643 - Log -INFO - 
+2023-05-30 13:15:01,438 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:15:01,443 - Log -INFO - 
+2023-05-30 13:15:02,389 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:15:02,393 - Log -INFO - 
+2023-05-30 13:15:03,347 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:15:03,355 - Log -INFO - 
+2023-05-30 13:16:48,540 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-30 13:16:48,552 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-30 13:16:48,556 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-30 13:16:48,558 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-30 13:16:49,989 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:16:49,997 - Log -INFO - 
+2023-05-30 13:16:50,772 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:16:50,777 - Log -INFO - 
+2023-05-30 13:16:51,673 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:16:51,675 - Log -INFO - 
+2023-05-30 13:16:52,549 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:16:52,552 - Log -INFO - 
+2023-05-30 13:16:53,443 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:16:53,447 - Log -INFO - 
+2023-05-30 13:16:53,577 - Log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-30 13:16:53,585 - Log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-30 13:16:53,594 - Log -INFO - OrangeHRM Application LogIn page Logo existing
+2023-05-30 13:17:14,314 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:19:21,606 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:21,616 - Log -INFO - 
+2023-05-30 13:19:22,499 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:22,505 - Log -INFO - 
+2023-05-30 13:19:23,395 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:23,403 - Log -INFO - 
+2023-05-30 13:19:24,359 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:24,363 - Log -INFO - 
+2023-05-30 13:19:25,175 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:25,177 - Log -INFO - 
+2023-05-30 13:19:26,091 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:26,097 - Log -INFO - 
+2023-05-30 13:19:27,003 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:27,011 - Log -INFO - 
+2023-05-30 13:19:27,876 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:27,893 - Log -INFO - 
+2023-05-30 13:19:28,827 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:28,835 - Log -INFO - 
+2023-05-30 13:19:29,723 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:29,726 - Log -INFO - 
+2023-05-30 13:19:30,667 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:30,673 - Log -INFO - 
+2023-05-30 13:19:31,571 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:31,574 - Log -INFO - 
+2023-05-30 13:19:32,398 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:32,408 - Log -INFO - 
+2023-05-30 13:19:33,240 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:33,250 - Log -INFO - 
+2023-05-30 13:19:34,125 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:34,128 - Log -INFO - 
+2023-05-30 13:19:35,162 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:35,166 - Log -INFO - 
+2023-05-30 13:19:36,060 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:36,069 - Log -INFO - 
+2023-05-30 13:19:37,057 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:37,059 - Log -INFO - 
+2023-05-30 13:19:37,930 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:37,938 - Log -INFO - 
+2023-05-30 13:19:38,755 - Log -INFO - Validating LogIn Functionality
+2023-05-30 13:19:38,759 - Log -INFO - 
+2023-05-30 13:19:38,768 - Log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 13:58:39,668 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:39,673 - Log -INFO - 
+2023-05-31 13:58:40,403 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:40,411 - Log -INFO - 
+2023-05-31 13:58:41,288 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:41,298 - Log -INFO - 
+2023-05-31 13:58:42,221 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:42,226 - Log -INFO - 
+2023-05-31 13:58:43,066 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:43,069 - Log -INFO - 
+2023-05-31 13:58:44,108 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:44,113 - Log -INFO - 
+2023-05-31 13:58:45,007 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:45,014 - Log -INFO - 
+2023-05-31 13:58:45,817 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:45,827 - Log -INFO - 
+2023-05-31 13:58:46,638 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:46,645 - Log -INFO - 
+2023-05-31 13:58:47,486 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:47,492 - Log -INFO - 
+2023-05-31 13:58:48,463 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:48,466 - Log -INFO - 
+2023-05-31 13:58:49,302 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:49,304 - Log -INFO - 
+2023-05-31 13:58:50,227 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:50,230 - Log -INFO - 
+2023-05-31 13:58:51,050 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:51,056 - Log -INFO - 
+2023-05-31 13:58:51,935 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:51,936 - Log -INFO - 
+2023-05-31 13:58:53,088 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:53,103 - Log -INFO - 
+2023-05-31 13:58:54,035 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:54,036 - Log -INFO - 
+2023-05-31 13:58:54,792 - Log -INFO - Validating LogIn Functionality
+2023-05-31 13:58:54,797 - Log -INFO - 
+2023-05-31 14:02:18,847 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 14:02:18,860 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 14:02:18,864 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-31 14:02:18,868 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-31 14:02:20,242 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:02:20,245 - Log -INFO - 
+2023-05-31 14:02:21,205 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:02:21,218 - Log -INFO - 
+2023-05-31 14:02:22,356 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:02:22,363 - Log -INFO - 
+2023-05-31 14:02:23,404 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:02:23,412 - Log -INFO - 
+2023-05-31 14:02:24,387 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:02:24,392 - Log -INFO - 
+2023-05-31 14:02:24,449 - Log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-31 14:02:24,466 - Log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-31 14:02:24,472 - Log -INFO - OrangeHRM Application LogIn page Logo existing
+2023-05-31 14:56:48,930 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 14:56:48,945 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 14:56:48,951 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-31 14:56:48,955 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-31 14:56:50,506 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:56:50,511 - Log -INFO - 
+2023-05-31 14:56:51,497 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:56:51,509 - Log -INFO - 
+2023-05-31 14:56:52,316 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:56:52,318 - Log -INFO - 
+2023-05-31 14:56:53,237 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:56:53,242 - Log -INFO - 
+2023-05-31 14:56:54,284 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:56:54,292 - Log -INFO - 
+2023-05-31 14:56:54,391 - Log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-31 14:56:54,402 - Log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-31 14:56:54,412 - Log -INFO - OrangeHRM Application LogIn page Logo existing
+2023-05-31 14:59:07,963 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 14:59:07,975 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 14:59:07,979 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-31 14:59:07,981 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-31 14:59:09,285 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:59:09,289 - Log -INFO - 
+2023-05-31 14:59:10,065 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:59:10,073 - Log -INFO - 
+2023-05-31 14:59:10,901 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:59:10,903 - Log -INFO - 
+2023-05-31 14:59:11,831 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:59:11,840 - Log -INFO - 
+2023-05-31 14:59:12,722 - Log -INFO - Validating LogIn Functionality
+2023-05-31 14:59:12,730 - Log -INFO - 
+2023-05-31 14:59:12,786 - Log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-31 14:59:12,794 - Log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-31 14:59:12,800 - Log -INFO - OrangeHRM Application LogIn page Logo existing
+2023-05-31 15:00:24,954 - Log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 15:00:24,965 - Log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-31 15:00:24,972 - Log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-31 15:00:24,974 - Log -INFO - Validating LogIn Page logInPanel text Successfull-navigated to LogIN Page
+2023-05-31 15:00:26,265 - Log -INFO - Validating LogIn Functionality
+2023-05-31 15:00:26,273 - Log -INFO - 
+2023-05-31 15:00:27,160 - Log -INFO - Validating LogIn Functionality
+2023-05-31 15:00:27,167 - Log -INFO - 
+2023-05-31 15:00:28,006 - Log -INFO - Validating LogIn Functionality
+2023-05-31 15:00:28,011 - Log -INFO - 
+2023-05-31 15:00:28,860 - Log -INFO - Validating LogIn Functionality
+2023-05-31 15:00:28,867 - Log -INFO - 
+2023-05-31 15:00:29,816 - Log -INFO - Validating LogIn Functionality
+2023-05-31 15:00:29,824 - Log -INFO - 
+2023-05-31 15:00:29,913 - Log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-31 15:00:29,917 - Log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-31 15:00:29,917 - Log -INFO - OrangeHRM Application LogIn page Logo existing

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T15:00:23 IST" name="Default suite" finished-at="2023-05-31T15:00:30 IST" duration-ms="6721">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T15:00:23 IST" name="Default test" finished-at="2023-05-31T15:00:30 IST" duration-ms="6721">
+      <class name="com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest@505fc5a4]" started-at="2023-05-31T15:00:23 IST" name="setUp" finished-at="2023-05-31T15:00:24 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingLogInPageTextTest()[pri:1, instance:com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest@505fc5a4]" started-at="2023-05-31T15:00:24 IST" name="validatingLogInPageTextTest" description="validting LogIn Page LogInPanel Text" finished-at="2023-05-31T15:00:24 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingLogInPageTextTest -->
+        <test-method signature="validatingLogInTest()[pri:2, instance:com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest@505fc5a4]" started-at="2023-05-31T15:00:24 IST" name="validatingLogInTest" description="Vailding LogIn Functionality" finished-at="2023-05-31T15:00:29 IST" duration-ms="4845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingLogInTest -->
+        <test-method signature="validatingLogInPageLogoTest()[pri:3, instance:com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest@505fc5a4]" started-at="2023-05-31T15:00:29 IST" name="validatingLogInPageLogoTest" description="validting LogIn Page Logo" finished-at="2023-05-31T15:00:29 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingLogInPageLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest@505fc5a4]" started-at="2023-05-31T15:00:29 IST" name="tearDown" finished-at="2023-05-31T15:00:30 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRMApplicationwebpagestest.OrangeHRMLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
